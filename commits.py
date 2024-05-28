@@ -35,3 +35,4 @@ if __name__ == '__main__':
     for r in repos:
         messages += get_commits(r)
     print('\n'.join([m.split('\r', 1)[0] for m in messages]))
+cout<<"a + b = "<<a+b;
